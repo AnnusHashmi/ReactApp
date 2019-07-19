@@ -1,0 +1,14 @@
+.box{
+    border: 2px groove grey;
+    padding: 20px;
+    display: inline-table;
+    margin: 20px 0px;
+    text-align: center; 
+}
+.gap{
+    margin-left: 20px;
+}
+h3{
+    border: 2px dotted black;
+    padding: 5px; 
+}
